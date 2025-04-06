@@ -39,6 +39,7 @@ pacman -Syu               # Update everything (only needed once)
 Then, install the development tools:
 
 pacman -S gcc flex make   # Install GCC, Flex, and Make
+
 2. Flex
 A tool for generating lexical analyzers. Required to process the .l file that defines patterns for x, y, and custom_operation.
 
@@ -51,7 +52,6 @@ Automates the build process using the Makefile.
 **How to run the program :**
 
 How to Run
-✅ Install MSYS2 from https://www.msys2.org
 
 ✅ Open MSYS2 MSYS terminal
 
