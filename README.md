@@ -69,7 +69,7 @@ make
 ./custom_op
 
 ✅ Enter input like:
-x3 y5 custom_operation
+x(3) y(5) custom_operation
 
 ✅ Get output of the expression:
 x² + y² - 2xy
