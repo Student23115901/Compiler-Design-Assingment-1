@@ -1,3 +1,5 @@
+Compiler Design Assignment-1 | Roll No. - 23115901 | Name - Anushk Singh | CSE 4th Semester
+
 # 🧮 Custom Instruction Lexer — `custom_operation`
 
 This project demonstrates a simple compiler-like behavior using **Flex** and **C**, focusing on parsing a custom instruction from user input and evaluating the expression:
