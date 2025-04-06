@@ -2,7 +2,7 @@ Compiler Design Assignment-1 | Roll No. - 23115901 | Name - Anushk Singh | CSE 4
 
 # 🧮 Custom Instruction Lexer — `custom_operation`
 
-This project demonstrates a simple compiler-like behavior using **Flex** and **C**, focusing on parsing a custom instruction from user input and evaluating the expression:
+This project demonstrates a simple compiler-like behavior using **Flex** and **C**, focusing on evaluating the custom expression:
 
 x² + y² - 2xy
 
@@ -13,14 +13,13 @@ The program is built using `Flex`, `GCC`, and `Make` on the **MSYS2** platform f
 
 ## 🎯 Project Aim
 
-The primary objective of this project is to implement a lexical analyzer that:
+The primary objective of this project is to :
 - Identifies structured user input in the format: `x<value> y<value> custom_operation`
 - Recognizes each token (`x`, `y`, and `custom_operation`)
 - Extracts values from tokens
-- Evaluates the expression `x² + y² - 2xy`
+- Evaluates the custom expression `x² + y² - 2xy`
 - Prints the result
 
-This simulation demonstrates how a basic lexer can be used to create custom compiler instructions.
 
 ---
 
